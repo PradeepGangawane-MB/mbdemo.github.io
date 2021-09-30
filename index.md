@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 ## Contact us
 
-- Email: [{{ customer.email }}](mailto:{{ customer.email }})
+- Whatsapp: customerWA](https://wa.me/3197010260330)
 - Twitter: [@customername](https://twitter.com/customername)
 
 

@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 ## Contact us
 
-- Whatsapp: customerWA](https://wa.me/3197010260330)
+- Whatsapp: [customerWA](https://wa.me/3197010260330)
 - Twitter: [@customername](https://twitter.com/customername)
 
 

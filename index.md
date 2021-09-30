@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 ## Contact us
 
-- Email: [{{ customer.email }}](mailto:{{ site.email }})
+- Email: [{{ customer.email }}](mailto:{{ customer.email }})
 - Twitter: [@customername](https://twitter.com/customername)
 
 

@@ -13,7 +13,7 @@ The purpose of this page is to initiate a conversation to Message bird flowbuild
 
 ## Contact us
 
-- Whatsapp: [customerWA](https://wa.me/3197010260330)
+- Whatsapp: [customerWA]https://wa.me/919819314600?text=I'm%20want%20to%20know%20more%20details%20about%20this%20<Year>%20<BikeName>%20<Link>
 - Twitter: [@customername](https://twitter.com/customername)
 
 
